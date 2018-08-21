@@ -49,5 +49,32 @@ h2 {
     position: sticky;
     position: -webkit-sticky;
     bottom: 0;
-    margin-top: 1200px;
+    margin-top: 800px;
 }
+
+.bio {
+    text-indent: 15px;
+
+
+}
+.headshot
+{
+
+}
+@media screen and (max-width: 640px) {
+    .headshot {
+    margin-right: 100px;
+}
+    .cfooter2 {
+        margin-top: 1100px;
+    }}
+    @media screen and (min-width: 770px) and (max-width: 1025px) and (min-height: 1200px) and (max-height: 1370px) {
+        .bio{
+            font-size: 30px;
+
+        }
+        .background {
+            height: 100%;
+        }
+    }
+
