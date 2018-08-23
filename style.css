@@ -28,6 +28,8 @@
     background-color: #b3d4fc;
     margin-top: 50px;
     padding: 10px 10px 100px 7%;
+    margin-left: auto;
+    margin-right: auto;
 }
 img {
     float:left;
