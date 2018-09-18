@@ -136,6 +136,11 @@ footer {
     bottom: 0;
     margin-top: 800px;
 }
+
+#triviaimage {
+    max-width: 80%;
+
+}
 /* double footer :(  */
 /*html, body {
     heigh: 100%;
