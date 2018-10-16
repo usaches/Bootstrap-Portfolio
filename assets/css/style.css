@@ -142,7 +142,8 @@ footer {
 
 }
 /* double footer :(  */
-/*html, body {
+/*html, body {#train {
+margin-left:100px;
     heigh: 100%;
 }
 footer, .push {
